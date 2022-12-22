@@ -3,12 +3,17 @@ import config from "../config.json";
 import styled from "styled-components";
 import Menu from "../src/components/Menu";
 import { StyledTimeline } from "../src/components/Timeline"
+import Head from "next/head";
 
 function HomePage() {
   const [valorDoFiltro, setValorDaFiltro] = React.useState("");
 
   return (
     <>
+      <Head>
+        <link rel="shortcut icon" href="/favicon.svg" />
+        <title>AluraTube</title>
+      </Head>
       <div style={{
         display: "flex",
         flexDirection: "column",

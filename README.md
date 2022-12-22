@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-AluraTube é um projeto desenvolvido durante a imersão react da alura e tem como propósito ser ter uma UI clone do Youtube e suas principais features são o Dark Mode e a barar de pesquisa.
+AluraTube é um projeto desenvolvido durante a imersão react da alura e tem como propósito ser ter uma UI clone do Youtube e suas principais features são o Dark Mode e a barra de pesquisa de vídeos.
 
 ## :memo: Licença
 
